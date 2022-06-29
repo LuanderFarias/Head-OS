@@ -22,7 +22,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Head OS Is a project for my tv head cosplay that i would like to share with everyone, My tv head project basically uses a computer screen, a camera and some led lights to bring emotions to my tv head display. The display is transparent so you can see through it, that works by basically dismonting a notenook screen and using the whole box as it backlight.
+Head OS Is a project for my tv head cosplay that i would like to share with everyone, My tv head project basically uses a computer screen, a camera and some led lights to bring emotions to my tv head display. The display is transparent so you can see through it, that works by basically dismonting a notebook screen and using the whole box as it backlight.
 
 If you want to do your own tv head like i did just follow the <a href="/documentation.md">Docs</a>
 
@@ -33,7 +33,6 @@ If you want to do your own tv head like i did just follow the <a href="/document
 ### Built With
 This is all the softwares/firmwares and etc i used to make the tv head. The parts that you need to mount your own tv head is listed on the <a href="/documentation.md">documentation.</a>
 
-* [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
